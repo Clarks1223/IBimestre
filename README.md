@@ -1,24 +1,43 @@
+Link de Render: https://examen1usuario.onrender.com/
+
+
+# Pagina Principal
+
+
+<img width="907" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/72933abe-8a6b-4a38-9c86-a63979ccd6ff">
 
 
 # Registro
 
-![image](https://github.com/ErickStalin/Project-NodeJS/assets/117755180/d92ded74-696f-407d-93f8-ddd991e24711)
 
-# Portafolios
+<img width="760" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/93b6377c-d0bd-441f-9b94-c8bb0e79500b">
 
-![image](https://github.com/ErickStalin/Project-NodeJS/assets/117755180/cf0a2c98-1c3e-4e27-82ba-c80cedcb0e49)
+
+# Login
+
+
+<img width="849" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/29db7e37-a9e4-475b-9e19-3c236461784e">
+
+
+# Vista usuario
+
+
+<img width="853" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/91ce1815-2fa5-4220-9ad6-479cd9ca6c25">
+
 
 # Perfil
 
-![image](https://github.com/ErickStalin/Project-NodeJS/assets/117755180/93085fa1-8ace-4dcd-a506-77dcd08f6876)
+
+<img width="853" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/c7d9ae18-d3f8-4684-96bf-d9e5424b6222">
 
 
-# Editar Perfil
-
-![image](https://github.com/ErickStalin/Project-NodeJS/assets/117755180/569dab34-e72a-4222-9a19-962a890f667a)
-
-# Modificación exitosa
-
-![image](https://github.com/ErickStalin/Project-NodeJS/assets/117755180/a437a812-6444-4eee-bbf6-c00d4d4760a8)
+# Editar perfil de usuario
 
 
+<img width="846" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/0fe55c88-f3b7-4a8d-9644-89b3c3739268">
+
+
+# Modificacion exitosa
+
+
+<img width="848" alt="image" src="https://github.com/Clarks1223/IBimestre/assets/117754080/5a87fbb5-ee69-4be8-9443-4a462bb1a973">
